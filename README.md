@@ -1,6 +1,6 @@
 # Review of Large Language Models (2024–2025)  
 *A curated guide to trending LLMs, categorized by accessibility and specialization*  
-**Curated by [Your Name] | Last updated: [Date]**  
+**Curated by Parmida Geranfar | Last updated: 23 January**  
 
 ---
 
